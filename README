@@ -1,0 +1,11 @@
+软  件  名：PhotoEditor
+版       本：0.0.1beta
+日       期：2022/2/12
+编译环境：MSVC 2022 + EasyX2022-1-16
+
+文件说明：
+pe.app：负责软件主体功能实现
+pe.ui：负责软件 UI 部分实现
+pe.effect：软件内 “效果” 选项卡算法实现
+pe.filters： 软件内“滤镜”选项卡算法实现
+seal.xxx：API 层面 XML 解析器基础（基础的 lexical）
